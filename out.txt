@@ -1,5 +1,5 @@
-Total won/lost: 10170
+Total won/lost: 9974
 =============================================== Nerf Martingale
-Total won/lost: -1442
+Total won/lost: 1742
 =============================================== Nerf V2
-Total won/lost: 870
+Total won/lost: -10826
